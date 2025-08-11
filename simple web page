@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rishon Sunil</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            color: #333;
+            margin: 0;
+            padding: 20px;
+        }
+        
+
+    </style>
+</head>
+<body>
+    <header><h1>Welcome to Rishon Sunil's Page</h1></header>
+    <nav>
+        <ul>
+            <li><a href="#exp">Experience</a></li>
+            <li><a href="#edu">Education</a></li>
+            <li><a href="#skills">Skills</a></li>
+            <li><a href="#con">Contact</a></li>
+    </nav>
+    <article>
+        <p> Welcome to my webpage</p>
+    </article>
+    <hr>
+    <p> My name is Rishon</p>
+    <img src="https://media.licdn.com/dms/image/v2/D5603AQFv_n89z3rY5Q/profile-displayphoto-shrink_400_400/B56ZcRZiNBHEAo-/0/1748343596922?e=1757548800&v=beta&t=JJDLKwLLx63sLtdVWoywMf-kMLcO5PGimaLG7ufJNag" alt="Profile Picture" style="border-radius: 50%; width: 240px;">
+
+    <section id="exp">
+        <h2>Experience</h2>
+        <p>Worked on two live projects</p>
+        <h4>SafePass : Hostel movement epass generator</h3>
+        <hr>
+        <h4>Teacher.AI : Developed AI assisted course plan generator for teachers</h3>
+    </section>
+    <section id="edu">
+        <h2>Education</h2>
+        <p>Final year btech CSE student </p>
+    </section>
+    <section id="skills">
+        <h2>Skills</h2>
+        <dl>
+            <dt>Programming Languages:</dt>
+            <dd>Python, Java, C</dd>
+            <dt>Web Development:</dt>
+            <dd>HTML, CSS, JavaScript</dd>
+            <dt>Frameworks:</dt>
+            <dd>Angular</dd>
+            <dt>Databases:</dt>
+            <dd>SQL, MongoDB</dd>
+            <dt>Tools:</dt>
+            <dd>Git</dd>
+        </dl>
+    </section>
+    <section id="con">
+        <h2>Contact</h2>
+        <p>You can contact me at: <a href="mailto:rishonsunil02@gmail.com">rishonsunil02@gmail.com</a></p>
+        </section>
+
+</body>
+</html>
